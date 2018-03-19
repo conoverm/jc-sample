@@ -1,8 +1,8 @@
 {
-  "name": "mc-jumpcloud",
+  "name": "jumpcloud-ui-assignment",
   "version": "1.0.0",
-  "description": "Matthew Conover applications",
-  "author": "Matthew Conover",
+  "description": "A project that can be used to asses front end developers",
+  "author": "JumpCloud",
   "private": true,
   "scripts": {
     "server": "node server/server.js",
