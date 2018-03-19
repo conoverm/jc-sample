@@ -37,12 +37,12 @@ following:
 
 2. Run the server:
   ```
-  $ npm run start:server
+  $ npm run server
   ```
 
-3. Run the client:
+3. Run the client in dev mode:
   ```
-  $ npm run start:client
+  $ npm run dev
   ```
 
 4. Point browser to:
